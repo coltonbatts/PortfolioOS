@@ -16,10 +16,10 @@ export default async function Home() {
       {/* Hero Section */}
       <section className="mb-16 md:mb-24">
         <h1 className="mb-6">
-          Welcome to Portfolio OS
+          Motion designer and creative director
         </h1>
         <p className="text-xl md:text-2xl max-w-3xl">
-          A modular system for creative-tech work, writing, and ideas. Built with Next.js, TypeScript, and brutalist minimalism.
+          I craft brand identities and visual narratives through motion design, typography, and animation. Working at the intersection of design and storytelling—no corporate speak, just honest work that moves.
         </p>
       </section>
 

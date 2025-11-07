@@ -19,9 +19,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Portfolio OS',
-  description: 'A modular creative-tech portfolio and vault system',
-  keywords: ['portfolio', 'creative tech', 'markdown', 'vault'],
+  title: 'Alex Rivera — Creative Technologist',
+  description: 'Motion designer and creative director specializing in brand identity, animation, and visual storytelling',
+  keywords: ['motion design', 'video editing', 'creative direction', 'after effects', 'typography', 'brand identity', 'animation'],
 };
 
 export default function RootLayout({

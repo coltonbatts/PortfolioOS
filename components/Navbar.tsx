@@ -21,7 +21,7 @@ export default function Navbar() {
         <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
           {/* Logo/Brand */}
           <Link href="/" className="text-2xl font-bold no-underline hover:underline">
-            Portfolio OS
+            Alex Rivera
           </Link>
 
           {/* Navigation Links */}

@@ -1,40 +1,43 @@
 ---
-title: About Portfolio OS
+title: About Alex Rivera
 date: 2025-01-15
-tags: [portfolio, creative-tech, brutalism]
-excerpt: A modular system for showcasing creative-tech work and ideas
+tags: [motion-design, creative-direction, visual-storytelling]
+excerpt: Motion designer and creative director crafting visual narratives
 ---
 
-## What is Portfolio OS?
+## Who I Am
 
-Portfolio OS is a **modular portfolio system** designed for creative technologists, engineers, and builders who want a clean, minimalist platform to showcase their work.
+I'm a creative technologist working at the intersection of design, motion, and visual storytelling. Based in Brooklyn, I spend my days crafting brand identities, animating typographic systems, and directing conceptual video work that cuts through the noise.
 
-Built with modern web technologies and designed with brutalist minimalism, Portfolio OS emphasizes clarity, functionality, and direct communication.
+## What I Do
+
+My work centers on motion design and visual direction. I build brand systems that move—kinetic identities that feel alive. Whether it's explainer videos, title sequences, or full-scale brand campaigns, I approach every project with the same mindset: clarity over clutter, motion over static, story over decoration.
+
+## Tools & Craft
+
+- **Motion & Video**: After Effects, Premiere Pro, Cinema 4D
+- **Design & Prototyping**: Figma, Framer, Illustrator
+- **Systems & Organization**: Notion, Milanote, obsessive file structures
+- **Typography**: Passionate about type in motion—kerning, tracking, and the rhythm of letterforms
 
 ## Design Philosophy
 
-- **Brutalist Minimalism**: Bold, functional, and unapologetically direct
-- **Monochrome Palette**: Black, white, and light gray for maximum clarity
-- **Typography First**: Inter and Helvetica for clean, readable text
-- **Grid-Based Layouts**: Structured, organized, and responsive
+I believe in minimal design that amplifies the message. Typography is architecture. Animation is punctuation. Good design doesn't need to shout.
 
-## Technology Stack
+My aesthetic draws from brutalism, Swiss design, and the kind of conceptual art that makes you stop and think. I'm drawn to monochrome palettes, bold type, and motion that feels intentional—never gratuitous.
 
-- **Next.js 14** with App Router for modern React architecture
-- **TypeScript** for type safety and better developer experience
-- **TailwindCSS** for utility-first styling
-- **Markdown** for content management via gray-matter and remark
+## Visual Influences
 
-## Future Vision
+- **Conceptual Art**: Ideas over decoration, meaning over style
+- **Magical Realism**: The surreal living inside the ordinary
+- **Dark Iconography**: Religious imagery, occult symbolism, the weight of history
+- **Brutalist Design**: Raw, honest, functional
+- **Early Title Sequences**: Saul Bass, Maurice Binder, Kyle Cooper
 
-Portfolio OS is designed to evolve. Upcoming features include:
+## Beyond the Screen
 
-- AI-powered content generation via Claude API
-- MCP integration for dynamic vault management
-- Enhanced search and filtering
-- Interactive visualizations
-- Expanded content types
+When I'm not animating, I'm collecting vinyl records, exploring urban decay photography, or deep in a Criterion Collection rabbit hole. I think a lot about how art intersects with culture, technology, and the strange ways we communicate in the digital age.
 
 ---
 
-*This is an example markdown file. Edit this content to tell your own story.*
+Available for freelance work and creative collaborations. Let's build something that moves.
